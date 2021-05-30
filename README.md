@@ -2,13 +2,13 @@ Description
 This is a professional web-friendly, Accessible website for Horiseon, An internet services company.   This is my first website that I refactored code to make accessible for screen readers. 
 
 
-To run this on your own computer you can copy the repo at "https://github.com/cullinans1/run-buddy". Open the HTML file in default browser to see the webpage.
+To run this on your own computer you can copy the repo at "https://github.com/rtuttle93/Accessibility-Assignment". Open the HTML file in default browser to see the webpage.
 
 Usage
 To use simply visit the live application at:"github"
 
 Contribution
-Made by Sammy Cullinan
+Made by Ryan Tuttle
 
 Screenshots
 ![Header and Nav](https://user-images.githubusercontent.com/82906399/120113216-7eda3300-c147-11eb-842a-54a106207915.PNG)
